@@ -1,0 +1,12 @@
+en su primera cien jardín como estas prueba cielo
+ fenix HOLA 
+Adán
+
+Odin
+
+ave 1,2,3
+
+ignorar mayusculas al momento de buscar
+ 
+
+hola = hola+ " " +i;
